@@ -10,7 +10,7 @@
     "body": "string",
     "post": "Post"
   },
-  "roles": [
+  "Roles": [
     {"name":  "admin"},
     {"name":  "supervisor"},
     {"name":  "operator"}
