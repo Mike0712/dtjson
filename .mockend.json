@@ -9,10 +9,5 @@
   "Comment": {
     "body": "string",
     "post": "Post"
-  },
-  "Roles": [
-    {"name":  "admin"},
-    {"name":  "supervisor"},
-    {"name":  "operator"}
-  ]
+  }
 }
